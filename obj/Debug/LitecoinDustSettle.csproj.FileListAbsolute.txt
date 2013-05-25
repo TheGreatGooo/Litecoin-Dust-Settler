@@ -1,0 +1,14 @@
+C:\Users\~Srujith~Kudikala~\Documents\Visual Studio 2012\Projects\LitecoinDustSettle\LitecoinDustSettle\bin\Debug\LitecoinDustSettle.exe.config
+C:\Users\~Srujith~Kudikala~\Documents\Visual Studio 2012\Projects\LitecoinDustSettle\LitecoinDustSettle\obj\Debug\LitecoinDustSettle.csprojResolveAssemblyReference.cache
+C:\Users\~Srujith~Kudikala~\Documents\Visual Studio 2012\Projects\LitecoinDustSettle\LitecoinDustSettle\obj\Debug\LitecoinDustSettle.Form1.resources
+C:\Users\~Srujith~Kudikala~\Documents\Visual Studio 2012\Projects\LitecoinDustSettle\LitecoinDustSettle\obj\Debug\LitecoinDustSettle.Properties.Resources.resources
+C:\Users\~Srujith~Kudikala~\Documents\Visual Studio 2012\Projects\LitecoinDustSettle\LitecoinDustSettle\obj\Debug\LitecoinDustSettle.csproj.GenerateResource.Cache
+C:\Users\~Srujith~Kudikala~\Documents\Visual Studio 2012\Projects\LitecoinDustSettle\LitecoinDustSettle\bin\Debug\LitecoinDustSettle.exe
+C:\Users\~Srujith~Kudikala~\Documents\Visual Studio 2012\Projects\LitecoinDustSettle\LitecoinDustSettle\bin\Debug\LitecoinDustSettle.pdb
+C:\Users\~Srujith~Kudikala~\Documents\Visual Studio 2012\Projects\LitecoinDustSettle\LitecoinDustSettle\bin\Debug\Bitnet.Client.dll
+C:\Users\~Srujith~Kudikala~\Documents\Visual Studio 2012\Projects\LitecoinDustSettle\LitecoinDustSettle\bin\Debug\Newtonsoft.Json.dll
+C:\Users\~Srujith~Kudikala~\Documents\Visual Studio 2012\Projects\LitecoinDustSettle\LitecoinDustSettle\bin\Debug\Bitnet.Client.pdb
+C:\Users\~Srujith~Kudikala~\Documents\Visual Studio 2012\Projects\LitecoinDustSettle\LitecoinDustSettle\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\~Srujith~Kudikala~\Documents\Visual Studio 2012\Projects\LitecoinDustSettle\LitecoinDustSettle\bin\Debug\Newtonsoft.Json.xml
+C:\Users\~Srujith~Kudikala~\Documents\Visual Studio 2012\Projects\LitecoinDustSettle\LitecoinDustSettle\obj\Debug\LitecoinDustSettle.exe
+C:\Users\~Srujith~Kudikala~\Documents\Visual Studio 2012\Projects\LitecoinDustSettle\LitecoinDustSettle\obj\Debug\LitecoinDustSettle.pdb
